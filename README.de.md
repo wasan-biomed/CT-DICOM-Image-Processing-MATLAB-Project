@@ -3,7 +3,7 @@
 Dieses Projekt demonstriert grundlegende Vorverarbeitung und Verbesserung eines DICOM-**CT**-Bildes mit MATLAB. Es umfasst Kontrastanpassung, Histogrammausgleich, Rauschfilterung, Kantenerkennung und Binärkonvertierung.
 
 ---
-🔄 Translations: [العربية 🇸🇦](README.ar.md) | [Deutsch 🇩🇪](README.de.md)
+🔄 Translations: [العربية](README.ar.md) | [English](README.md)
 ---
 
 ## 📁 Eingabe
